@@ -13,8 +13,8 @@ function omg(num1,num2){
     result=num1*num2
     return result
 }
-function lee(num1,num2){
+function run(num1,num2){
     let result;
-    result=unm1/unm2
+    result=num1/num2
     return result
 }
